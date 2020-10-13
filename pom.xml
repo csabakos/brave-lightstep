@@ -63,7 +63,7 @@
         <brave.version>5.8.0</brave.version>
 
         <!-- Test dependency versions -->
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <assertj.version>3.14.0</assertj.version>
         <junit-dataprovider.version>1.13.1</junit-dataprovider.version>
     </properties>
